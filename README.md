@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis
+# Sales Performance & Budget Analysis
 
 ## Project Overview
 An end-to-end sales analysis project using SQL Server and Microsoft Power BI to explore sales data, prepare analytical datasets, and present business insights through a dashboard.
